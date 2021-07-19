@@ -1,0 +1,23 @@
+{
+  
+  "scripts": {
+  
+    
+  "compile": "tsc"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "typescript": "^4.3.5"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "twisted": "^1.44.3"
+  
+  }
+}
